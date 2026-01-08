@@ -18,8 +18,8 @@ With over **17 years of combined experience** in our core team, we bridge the ga
 ---
 
 ### 📬 Get In Touch
-* **Website:** [Your Portfolio Link Here]
-* **LinkedIn:** [Your Company Page Link Here]
+* **Website:** [https://aissp-eg.com/]
+* **LinkedIn:** [https://www.linkedin.com/company/tech-resolve-aissp/about/]
 * **Email:** [Your Business Email Here]
 
 ---
